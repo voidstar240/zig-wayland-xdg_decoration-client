@@ -1,5 +1,5 @@
 .{
-    .name = "wayland-xdg_shell-client",
+    .name = "wayland-xdg_decoration-client",
     .version = "0.1.0",
     .dependencies = .{
         .@"wayland-client" = .{
